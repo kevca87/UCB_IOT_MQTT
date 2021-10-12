@@ -132,7 +132,7 @@ void publish(String message,const char* topic)
 
 void publishDistance(float distance)
 {
-  publish(String(distance),OUT_TOPIC_DIST)
+  publish(String(distance),OUT_TOPIC_DIST);
 }
 
 unsigned long previousConnectMillis = 0;
