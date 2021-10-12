@@ -1,0 +1,99 @@
+data,ms
+2021-10-11 21:39:59,339  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:39:59,339  INFO --- MqttFX ClientModel             : messageArrived() added: message #16 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:07,041  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:07,042  INFO --- MqttFX ClientModel             : messageArrived() added: message #17 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:09,759  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:09,759  INFO --- MqttFX ClientModel             : messageArrived() added: message #18 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:12,830  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:12,830  INFO --- MqttFX ClientModel             : messageArrived() added: message #19 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:15,221  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:15,221  INFO --- MqttFX ClientModel             : messageArrived() added: message #20 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:17,651  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:17,651  INFO --- MqttFX ClientModel             : messageArrived() added: message #21 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:20,247  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:20,248  INFO --- MqttFX ClientModel             : messageArrived() added: message #22 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:22,315  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:22,315  INFO --- MqttFX ClientModel             : messageArrived() added: message #23 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:24,609  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:24,610  INFO --- MqttFX ClientModel             : messageArrived() added: message #24 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:26,806  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:26,806  INFO --- MqttFX ClientModel             : messageArrived() added: message #25 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:28,952  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:28,953  INFO --- MqttFX ClientModel             : messageArrived() added: message #26 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:31,339  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:31,339  INFO --- MqttFX ClientModel             : messageArrived() added: message #27 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:33,710  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:33,710  INFO --- MqttFX ClientModel             : messageArrived() added: message #28 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:35,850  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:35,850  INFO --- MqttFX ClientModel             : messageArrived() added: message #29 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:38,489  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:38,489  INFO --- MqttFX ClientModel             : messageArrived() added: message #30 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:40,950  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:40,950  INFO --- MqttFX ClientModel             : messageArrived() added: message #31 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:43,241  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:43,241  INFO --- MqttFX ClientModel             : messageArrived() added: message #32 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:46,113  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:46,114  INFO --- MqttFX ClientModel             : messageArrived() added: message #33 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:40:48,036  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:40:48,036  INFO --- MqttFX ClientModel             : messageArrived() added: message #34 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:01,529  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:01,529  INFO --- MqttFX ClientModel             : messageArrived() added: message #35 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:02,201  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:02,202  INFO --- MqttFX ClientModel             : messageArrived() added: message #36 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:02,715  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:02,716  INFO --- MqttFX ClientModel             : messageArrived() added: message #37 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:03,348  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:03,349  INFO --- MqttFX ClientModel             : messageArrived() added: message #38 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:03,868  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:03,868  INFO --- MqttFX ClientModel             : messageArrived() added: message #39 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:04,530  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:04,530  INFO --- MqttFX ClientModel             : messageArrived() added: message #40 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:05,084  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:05,085  INFO --- MqttFX ClientModel             : messageArrived() added: message #41 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:05,616  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:05,616  INFO --- MqttFX ClientModel             : messageArrived() added: message #42 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:06,266  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:06,267  INFO --- MqttFX ClientModel             : messageArrived() added: message #43 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:06,841  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:06,842  INFO --- MqttFX ClientModel             : messageArrived() added: message #44 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:07,499  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:07,500  INFO --- MqttFX ClientModel             : messageArrived() added: message #45 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:08,109  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:08,109  INFO --- MqttFX ClientModel             : messageArrived() added: message #46 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:08,733  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:08,733  INFO --- MqttFX ClientModel             : messageArrived() added: message #47 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:10,468  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:10,469  INFO --- MqttFX ClientModel             : messageArrived() added: message #48 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:10,469  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:10,469  INFO --- MqttFX ClientModel             : messageArrived() added: message #49 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:10,775  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:10,776  INFO --- MqttFX ClientModel             : messageArrived() added: message #50 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:11,104  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:11,104  INFO --- MqttFX ClientModel             : messageArrived() added: message #51 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:11,795  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:11,795  INFO --- MqttFX ClientModel             : messageArrived() added: message #52 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:12,368  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:12,368  INFO --- MqttFX ClientModel             : messageArrived() added: message #53 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:13,003  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:13,003  INFO --- MqttFX ClientModel             : messageArrived() added: message #54 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:13,621  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:13,621  INFO --- MqttFX ClientModel             : messageArrived() added: message #55 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:14,153  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:14,154  INFO --- MqttFX ClientModel             : messageArrived() added: message #56 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:14,827  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:14,828  INFO --- MqttFX ClientModel             : messageArrived() added: message #57 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:15,344  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:15,344  INFO --- MqttFX ClientModel             : messageArrived() added: message #58 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:15,983  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:15,984  INFO --- MqttFX ClientModel             : messageArrived() added: message #59 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:16,510  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:16,510  INFO --- MqttFX ClientModel             : messageArrived() added: message #60 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:17,224  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:17,224  INFO --- MqttFX ClientModel             : messageArrived() added: message #61 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:17,796  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:17,796  INFO --- MqttFX ClientModel             : messageArrived() added: message #62 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:18,336  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:18,336  INFO --- MqttFX ClientModel             : messageArrived() added: message #63 to topic 'ucb/iot/group7/esp32/1/leds/red'
+2021-10-11 21:41:18,769  INFO --- MqttFX ClientModel             : messageArrived() with topic: ucb/iot/group7/esp32/1/leds/red
+2021-10-11 21:41:18,769  INFO --- MqttFX ClientModel             : messageArrived() added: message #64 to topic 'ucb/iot/group7/esp32/1/leds/red'
