@@ -13,7 +13,7 @@ const char* IN_TOPIC_RED_LED = "ucb/iot/group7/esp32/1/leds/red"; // read from r
 const int ECHO_PIN = 12;
 const int TRIGGER_PIN = 14;
 
-const int LED_RED = 13;
+const int LED_RED = 21;
 const int LED_YELLOW = 0;
 const int LED_GREEN = 4;
 
@@ -129,38 +129,21 @@ void publish(String message,const char* topic)
   mqttClient.publish(topic, message.c_str());
 }
 
-
 void publishDistance(float distance)
 {
   publish(String(distance),OUT_TOPIC_DIST);
 }
 
-unsigned long previousConnectMillis = 0;
-unsigned long previousPublishMillis = 0;
-
-unsigned char counter = 0;
-
 void loop() {
-  unsigned long now = millis();
   if (!mqttClient.connected()) {
-    // Connect to MQTT broker
-    if (now - previousConnectMillis >= 5000) {
-      previousConnectMillis = now;
-      if (mqttClientConnect()) {
-        previousConnectMillis = 0;
-      } else delay(1000);
-    }
-  } else {
-    // This should be called regularly to allow the client to process incoming messages and maintain its connection to the server
+    bool connected = mqttClientConnect();     
+    delay(1000);
+  }
+  else {
     mqttClient.loop();
     delay(100);
-
-    if (now - previousPublishMillis >= 1000) {
-      previousPublishMillis = now;
-
-      float distance = getDistance();//[cm]
-      publishDistance(distance);
-      delay(100);
-    }
+    float distance = getDistance();//[cm]
+    publishDistance(distance);
+    delay(500);
   }
 }
